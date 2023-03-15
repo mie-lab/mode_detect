@@ -4,7 +4,9 @@ This repository represents the implementation of the paper:
 
 ## [Evaluating geospatial context information for travel mode detection]()
 [Ye Hong](https://scholar.google.com/citations?user=dnaRSnwAAAAJ&hl=en), [Emanuel Stüdeli](), [Martin Raubal](https://raubal.ethz.ch/)\
-| [IKG, ETH Zurich](https://gis.ethz.ch/en/)|
+[IKG, ETH Zurich](https://gis.ethz.ch/en/)
+
+![flowchart](out/shap.png?raw=True)
 
 <!-- ## Requirements and dependencies
 
