@@ -1,6 +1,6 @@
 # Sensitive
 data/
-paths*
+credentials*
 
 # Mac
 .DS_Store
