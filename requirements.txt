@@ -1,0 +1,7 @@
+python=3.10
+geopandas
+pygeos
+tqdm
+trackintel
+scikit-learn
+shap
