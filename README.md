@@ -8,20 +8,20 @@ This repository represents the implementation of the paper:
 
 ![flowchart](fig/shap_overall.png?raw=True)
 
-<!-- ## Requirements and dependencies
+## Requirements and dependencies
 
 This code has been tested on
 
-- Python 3.9.12, Geopandas 0.12.2, trackintel 1.1.13, PyTorch 1.12.1
+- Python 3.10.9, Geopandas 0.12.2, trackintel 1.1.13, shap 0.41.0, scikit-learn 1.2.2
 
 To create a virtual environment and install the required dependences please run:
 ```shell
-    git clone https://github.com/mie-lab/location-mode-prediction
-    cd location-mode-prediction
+    git clone https://github.com/hong2223/mode_detect
+    cd mode-detect
     conda env create -f environment.yml
-    conda activate loc-mode-pred
+    conda activate mode-detect
 ```
-in your working folder. -->
+in your working folder.
 
 ## Inputs and Parameters
 Require `stage` data with validated travel mode labels and LineString geometries as input. You can check `0_load\import_data.py` for reading data from PostGIS database and the corresponding data format. In addition, the processing scripts require the following input data and parameters:
