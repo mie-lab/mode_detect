@@ -6,7 +6,7 @@ This repository represents the implementation of the paper:
 [Ye Hong](https://scholar.google.com/citations?user=dnaRSnwAAAAJ&hl=en), [Emanuel Stüdeli](), [Martin Raubal](https://raubal.ethz.ch/)\
 [IKG, ETH Zurich](https://gis.ethz.ch/en/)
 
-![flowchart](fig/shap.png?raw=True)
+![flowchart](fig/shap_overall.png?raw=True)
 
 <!-- ## Requirements and dependencies
 
