@@ -3,7 +3,7 @@
 This repository represents the implementation of the paper:
 
 ## [Evaluating geospatial context information for travel mode detection](https://www.sciencedirect.com/science/article/pii/S0966692323002089)
-[Ye Hong](https://scholar.google.com/citations?user=dnaRSnwAAAAJ&hl=en), [Emanuel Stüdeli](), [Martin Raubal](https://raubal.ethz.ch/)\
+[Ye Hong](https://scholar.google.com/citations?user=dnaRSnwAAAAJ&hl=en), Emanuel Stüdeli, [Martin Raubal](https://raubal.ethz.ch/)\
 [IKG, ETH Zurich](https://gis.ethz.ch/en/)
 
 ![flowchart](fig/shap_overall.png?raw=True)
